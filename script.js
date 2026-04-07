@@ -1,0 +1,1 @@
+document.getElementById("para").style.backgroundColor = "red";
